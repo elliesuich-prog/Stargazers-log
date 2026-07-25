@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript",
+    "url": "https://github.com/javascript/awesome",
+    "description": "A curated list of awesome JavaScript frameworks, libraries and resources",
+    "starredDate": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "name": "GitHub CLI",
+    "url": "https://github.com/cli/cli",
+    "description": "GitHub's official command line tool",
+    "starredDate": "2024-02-20"
+  },
+  {
+    "id": 3,
+    "name": "TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output",
+    "starredDate": "2024-03-10"
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "url": "https://github.com/facebook/react",
+    "description": "A JavaScript library for building user interfaces with components",
+    "starredDate": "2024-04-05"
+  },
+  {
+    "id": 5,
+    "name": "Vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "The Progressive JavaScript Framework",
+    "starredDate": "2024-05-12"
+  }
+]
